@@ -12,21 +12,17 @@ function App(){
   return (
     <div className="App">
       <h1>Practicas React</h1>
-      <C01componente/>
-      <hr/>
-      <C02contador/>
-      <hr/>
-      <C03componenteConCss/>
-      <hr/>
-      <C03Contador/>
+      <Matriz/>
       <hr/>
       <Variable xVariable="Hola mundo... desde.... React"/>
       <hr/>
-      <Operador xEdad ="20"/>
+      <C02contador/>
       <hr/>
-      <Matriz/>
-      <hr/>
-      <MatrizOperaciones/>
+      
+      
+      
+      
+      
     </div>
   );
 }
